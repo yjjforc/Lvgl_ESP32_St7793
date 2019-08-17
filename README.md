@@ -6,4 +6,4 @@
 2.将main文件替换根目录main文件
 3 更改（lv_conf.h）屏幕分辨率
 #define LV_HOR_RES_MAX          (400)
-#define LV_VER_RES_MAX          (240)
+#define LV_VER_RES_MAX          (240) 
